@@ -11,7 +11,7 @@ All such additional terms, guidelines, or rules, including Our Privacy Policy, a
 These Terms set forth the legally binding agreement that governs your use of the app as well as any other media form connected thereto (collectively, “app”). By accessing or using the app, you have understood and are accepting these Terms (on behalf of yourself or the entity that you represent), and warrant that you have the right, authority, and capacity to enter into these Terms (on behalf of yourself or the entity that you represent). If you do not agree with the provisions of these Terms, do not access and/or use the app.
 
 Guidelines for rewards in use of the app:
-```
+
       *     For every 3 encourages, add 1 heart
       *     For every 8 supports (+1), add 1 heart
       *     Every 12 friends added to reward 2 hearts
@@ -19,7 +19,7 @@ Guidelines for rewards in use of the app:
 
       **    Every 10 hearts to earn you 1 light coin
       ***   Bonus: Heart gift for every encourage to +bot
-```
+
 ### 1. Accounts
 1.1 Account Creation. In order to use certain features of the app, you are encouraged to register for an account (collectively “Account”) and provide certain information about yourself as prompted by the sign up form. You represent and warrant that: (a) all required registration information you submit is truthful and accurate; (b) you will maintain the accuracy of such information. You may choose to delete your Account at any time, for any reason, by following the instructions shown in the app. We may suspend or permanently terminate your Account in accordance with Section 8.
 
@@ -100,8 +100,8 @@ Subject to this Section, these Terms will remain in full force and effect while 
 
 9.11 Contact Information. If you wish to contact us in writing, or if any parts of these Terms require you to give us notice in writing, contact us at:
 
-##### Support in HK<br>
-##### Attn: +you<br>
-##### Email: support@jiayou.ai
+Support in HK<br>
+Attn: +you<br>
+Email: support@jiayou.ai
 
 
