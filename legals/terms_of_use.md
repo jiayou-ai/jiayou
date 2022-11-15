@@ -100,8 +100,8 @@ Subject to this Section, these Terms will remain in full force and effect while 
 
 9.11 Contact Information. If you wish to contact us in writing, or if any parts of these Terms require you to give us notice in writing, contact us at:
 
-Support in HK<br>
-Attn: +you<br>
-Email: support@jiayou.ai
+##### Support in HK<br>
+##### Attn: +you<br>
+##### Email: support@jiayou.ai
 
 
