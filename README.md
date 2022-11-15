@@ -1,2 +1,2 @@
 # jiayou
-Just a little repo for jiayou and legals
+A repo for jiayou and legals
