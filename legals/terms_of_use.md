@@ -4,7 +4,7 @@ Last revised on: 20 July 2022
 
 Please read these terms carefully before using Our Service.
 
-The app +you (“foundation”, “we”, “us”, and “our”) is a copyrighted work. Certain features of the app may be subject to additional guidelines, terms, or rules, which will be posted on this page in connection with such features. Having that stated without limitation, your submission of information, including personal information, through which we have direct connection with is governed by the terms of Our privacy policy as updated from time to time, available at www.bravostudio.app/privacy (“Privacy Policy”).
+The app +you (“foundation”, “we”, “us”, and “our”) is a copyrighted work. Certain features of the app may be subject to additional guidelines, terms, or rules, which will be posted on this page in connection with such features. Having that stated without limitation, your submission of information, including personal information, through which we have direct connection with is governed by the terms of Our privacy policy as updated from time to time, available at jiayou-ai.github.io/jiayou-ai/legals/privacy_policy (“Privacy Policy”).
 
 All such additional terms, guidelines, or rules, including Our Privacy Policy, are incorporated by reference into these terms of use (these “Terms”).
 
