@@ -67,7 +67,7 @@ We may also share aggregated and/or anonymized data with others for their own us
 
 Our app securely manages and stores your data on Xano docker for powerful infrastructure in one of their American data centres with Google Cloud for cloud based server solution. More information on Xano security guidelines can be found here : xano.com/technology/
 ‍
-We will keep your personal information and usage data for while you have an Account with us. If you choose to delete your Account, we will ensure to delete your data from us.
+<br>We will keep your personal information and usage data for while you have an Account with us. If you choose to delete your Account, we will ensure to delete your data from us.
 
 #### Information choices and changes
 
