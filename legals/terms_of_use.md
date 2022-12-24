@@ -18,7 +18,7 @@ Guidelines for rewards in use of the app:
       *     Every 2 POS created to reward 5 hearts
 
       **    Every 10 hearts to earn you 1 light coin
-      ***   Bonus: heart gift for every encourage to +bot
+      ***   Hearty gift for every encourage to +bot
 
 ### 1. Accounts
 1.1 Account Creation. In order to use certain features of the app, you are encouraged to register for an account (collectively “Account”) and provide certain information about yourself as prompted by the sign up form. You represent and warrant that: (a) all required registration information you submit is truthful and accurate; (b) you will maintain the accuracy of such information. You may choose to delete your Account at any time, for any reason, by following the instructions shown in the app. We may suspend or permanently terminate your Account in accordance with Section 8.
